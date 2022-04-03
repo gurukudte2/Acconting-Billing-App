@@ -52,7 +52,7 @@
     position:absolute;
     width:280px;
     transition:.5s;
-    margin: auto 30px;
+    margin: auto 50px;
 }
 .input-field{
 
@@ -87,8 +87,8 @@
     position: absolute;
 }
 #login{
-    opacity: 1;
+    display: block;
 }
 #register{
-    opacity: 0;
+    display: none;
 }
